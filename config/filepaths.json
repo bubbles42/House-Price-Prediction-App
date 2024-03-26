@@ -1,0 +1,1 @@
+{"data": {"ml": {"train": "data/part2-training-data.joblib", "test": "data/part2-test-data.joblib"}}, "models": {"linear_regression": "models/part2-model-pipeline.joblib"}}
